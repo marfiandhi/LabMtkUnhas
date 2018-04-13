@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "21046751349",
+    "firebase_url": "https://labmtkunhas.firebaseio.com",
+    "project_id": "labmtkunhas",
+    "storage_bucket": "labmtkunhas.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:21046751349:android:ba7fcbca3e76d461",
+        "android_client_info": {
+          "package_name": "divascion.marfiandhi.labmtkunhas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "21046751349-tvuqeujjk2mgbrb8s0cgpmt0sup9a5dn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "divascion.marfiandhi.labmtkunhas",
+            "certificate_hash": "46a6d5870755296f7be1920c7d088c1a2d92cee0"
+          }
+        },
+        {
+          "client_id": "21046751349-va7g1kqt6n4f1fkl26mq6l8ka33trgr9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYJTxzO_6Uxp4pbkpMdDNIuhc816epG-k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "21046751349-va7g1kqt6n4f1fkl26mq6l8ka33trgr9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
